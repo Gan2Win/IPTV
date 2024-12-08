@@ -183,7 +183,7 @@ http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000007
 http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000011
 #EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://live.fanmingming.com/tv/安徽公共.png" group-title="安徽频道",安徽公共
 http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000009
-#EXTINF:-1 tvg-name="亳州农村" tvg-logo="http://tv.haoqu99.com/d/file/2018/0711/smallba0d359c6a7d349cc8e4290fc690d29e1531322723.jpg" group-title="安徽频道",亳州农村
+#EXTINF:-1 tvg-name="亳州农村" tvg-logo="https://github.com/Gan2Win/IPTV/blob/TV-Logo/%E4%BA%B3%E5%B7%9E.png" group-title="安徽频道",亳州农村
 http://10.255.126.3:8006/AHBKLIVE/11111120210408000000000000000033
 #EXTINF:-1 tvg-name="亳州农村" tvg-logo="http://tv.haoqu99.com/d/file/2018/0711/smallba0d359c6a7d349cc8e4290fc690d29e1531322723.jpg" group-title="安徽频道",亳州农村
 http://zbbf2.ahbztv.com/live/418.m3u8
