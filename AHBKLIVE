@@ -247,11 +247,3 @@ http://live.cztv.cc:85/live/ggpd.m3u8
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000085
 #EXTINF:-1 tvg-name="滁州科教" tvg-logo="http://tv.haoqu99.com/d/file/2017/0915/small1e13492406026e47512b4d1370f4748e1505481616.jpg" group-title="安徽频道",滁州科教
 http://live.cztv.cc:85/live/sjpd.m3u8
-#EXTINF:-1 tvg-name="芜湖新闻综合" tvg-logo="http://tv.haoqu99.com/d/file/2016/0620/20160620112948260.jpg" group-title="安徽频道",芜湖新闻综合
-https://live3.wuhunews.cn/news/playlist.m3u8?_upt=63df40ad1725344791
-#EXTINF:-1 tvg-name="芜湖生活" tvg-logo="http://tv.haoqu99.com/d/file/2016/0620/20160620113238602.jpg" group-title="安徽频道",芜湖生活
-https://live3.wuhunews.cn/channel2/playlist.m3u8?_upt=79326ab91725344798
-#EXTINF:-1 tvg-name="芜湖公共" tvg-logo="http://tv.haoqu99.com/d/file/2017/0913/small6cc48f42abf2cbe3a1006896171f06531505265375.jpg" group-title="安徽频道",芜湖公共
-https://live3.wuhunews.cn/channel3/playlist.m3u8?_upt=98a9b36f1725344821
-#EXTINF:-1 tvg-name="岳西综合" tvg-logo="http://tv.haoqu99.com/d/file/2016/0301/20160301101914522.jpg" group-title="安徽频道",岳西综合
-http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
