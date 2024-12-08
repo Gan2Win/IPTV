@@ -183,20 +183,28 @@ http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000007
 http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000011
 #EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://live.fanmingming.com/tv/安徽公共.png" group-title="安徽频道",安徽公共
 http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000009
-#EXTINF:-1 tvg-name="亳州农村" tvg-logo="https://live.fanmingming.com/tv/亳州农村.png" group-title="安徽频道",亳州农村
+#EXTINF:-1 tvg-name="亳州农村" tvg-logo="http://tv.haoqu99.com/d/file/2018/0711/smallba0d359c6a7d349cc8e4290fc690d29e1531322723.jpg" group-title="安徽频道",亳州农村
 http://10.255.126.3:8006/AHBKLIVE/11111120210408000000000000000033
+#EXTINF:-1 tvg-name="亳州农村" tvg-logo="http://tv.haoqu99.com/d/file/2018/0711/smallba0d359c6a7d349cc8e4290fc690d29e1531322723.jpg" group-title="安徽频道",亳州农村
+http://zbbf2.ahbztv.com/live/418.m3u8
 #EXTINF:-1 tvg-name="亳州综合" tvg-logo="https://live.fanmingming.com/tv/亳州综合.png" group-title="安徽频道",亳州综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000075
 #EXTINF:-1 tvg-name="蚌埠新闻" tvg-logo="https://live.fanmingming.com/tv/蚌埠新闻.png" group-title="安徽频道",蚌埠新闻
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000077
 #EXTINF:-1 tvg-name="蚌埠生活" tvg-logo="https://live.fanmingming.com/tv/蚌埠生活.png" group-title="安徽频道",蚌埠生活
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000079
-#EXTINF:-1 tvg-name="宿州科教" tvg-logo="https://live.fanmingming.com/tv/宿州科教.png" group-title="安徽频道",宿州科教
+#EXTINF:-1 tvg-name="宿州科教" tvg-logo="http://tv.haoqu99.com/d/file/2016/1004/e3ec2b38258f467e0fe074e33654a5c8.jpg" group-title="安徽频道",宿州科教
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000097
+#EXTINF:-1 tvg-name="宿州科教" tvg-logo="http://tv.haoqu99.com/d/file/2016/1004/e3ec2b38258f467e0fe074e33654a5c8.jpg" group-title="安徽频道",宿州科教
+http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+#EXTINF:-1 tvg-name="宿州公共" tvg-logo="http://tv.haoqu99.com/d/file/2016/1004/e3ec2b38258f467e0fe074e33654a5c8.jpg" group-title="安徽频道",宿州公共
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 #EXTINF:-1 tvg-name="宿州经济生活" tvg-logo="https://live.fanmingming.com/tv/宿州经济生活.png" group-title="安徽频道",宿州经济生活
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000095
-#EXTINF:-1 tvg-name="宿州新闻综合" tvg-logo="https://live.fanmingming.com/tv/宿州新闻综合.png" group-title="安徽频道",宿州新闻综合
+#EXTINF:-1 tvg-name="宿州新闻综合" tvg-logo="http://tv.haoqu99.com/d/file/2016/1004/e3ec2b38258f467e0fe074e33654a5c8.jpg" group-title="安徽频道",宿州新闻综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000099
+#EXTINF:-1 tvg-name="宿州新闻综合" tvg-logo="http://tv.haoqu99.com/d/file/2016/1004/e3ec2b38258f467e0fe074e33654a5c8.jpg" group-title="安徽频道",宿州新闻综合
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 #EXTINF:-1 tvg-name="安庆新闻综合" tvg-logo="https://live.fanmingming.com/tv/安庆新闻综合.png" group-title="安徽频道",安庆新闻综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000111
 #EXTINF:-1 tvg-name="安庆经济生活" tvg-logo="https://live.fanmingming.com/tv/安庆经济生活.png" group-title="安徽频道",安庆经济生活
@@ -213,8 +221,10 @@ http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000123
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000089
 #EXTINF:-1 tvg-name="池州文教生活" tvg-logo="https://live.fanmingming.com/tv/池州文教生活.png" group-title="安徽频道",池州文教生活
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000087
-#EXTINF:-1 tvg-name="黄山新闻综合" tvg-logo="https://live.fanmingming.com/tv/黄山新闻综合.png" group-title="安徽频道",黄山新闻综合
+#EXTINF:-1 tvg-name="黄山新闻综合" tvg-logo="http://tv.haoqu99.com/d/file/2016/0308/20160308113812969.jpg" group-title="安徽频道",黄山新闻综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000117
+#EXTINF:-1 tvg-name="黄山新闻综合" tvg-logo="http://tv.haoqu99.com/d/file/2016/0308/20160308113812969.jpg" group-title="安徽频道",黄山新闻综合
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 #EXTINF:-1 tvg-name="黄山文旅" tvg-logo="https://live.fanmingming.com/tv/黄山文旅.png" group-title="安徽频道",黄山文旅
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000115
 #EXTINF:-1 tvg-name="淮北新闻综合" tvg-logo="https://live.fanmingming.com/tv/淮北新闻综合.png" group-title="安徽频道",淮北新闻综合
@@ -225,9 +235,23 @@ http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000121
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000089
 #EXTINF:-1 tvg-name="池州文教生活" tvg-logo="https://live.fanmingming.com/tv/池州文教生活.png" group-title="安徽频道",池州文教生活
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000087
-#EXTINF:-1 tvg-name="滁州新闻综合" tvg-logo="https://live.fanmingming.com/tv/滁州新闻综合.png" group-title="安徽频道",滁州新闻综合
+#EXTINF:-1 tvg-name="滁州新闻综合" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/small-3943790278.jpg" group-title="安徽频道",滁州新闻综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000081
-#EXTINF:-1 tvg-name="滁州公共" tvg-logo="https://live.fanmingming.com/tv/滁州公共.png" group-title="安徽频道",滁州公共
+#EXTINF:-1 tvg-name="滁州新闻综合" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/small-3943790278.jpg" group-title="安徽频道",滁州新闻综合
+http://live.cztv.cc:85/live/xwpd.m3u8
+#EXTINF:-1 tvg-name="滁州公共" tvg-logo="http://tv.haoqu99.com/d/file/2017/0915/smallb782467c6fb906bfa1e5a2ed023761551505481741.jpg" group-title="安徽频道",滁州公共
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000083
-#EXTINF:-1 tvg-name="滁州科教" tvg-logo="https://live.fanmingming.com/tv/滁州科教.png" group-title="安徽频道",滁州科教
+#EXTINF:-1 tvg-name="滁州公共" tvg-logo="http://tv.haoqu99.com/d/file/2017/0915/smallb782467c6fb906bfa1e5a2ed023761551505481741.jpg" group-title="安徽频道",滁州公共
+http://live.cztv.cc:85/live/ggpd.m3u8
+#EXTINF:-1 tvg-name="滁州科教" tvg-logo="http://tv.haoqu99.com/d/file/2017/0915/small1e13492406026e47512b4d1370f4748e1505481616.jpg" group-title="安徽频道",滁州科教
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000085
+#EXTINF:-1 tvg-name="滁州科教" tvg-logo="http://tv.haoqu99.com/d/file/2017/0915/small1e13492406026e47512b4d1370f4748e1505481616.jpg" group-title="安徽频道",滁州科教
+http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 tvg-name="芜湖新闻综合" tvg-logo="http://tv.haoqu99.com/d/file/2016/0620/20160620112948260.jpg" group-title="安徽频道",芜湖新闻综合
+https://live3.wuhunews.cn/news/playlist.m3u8?_upt=63df40ad1725344791
+#EXTINF:-1 tvg-name="芜湖生活" tvg-logo="http://tv.haoqu99.com/d/file/2016/0620/20160620113238602.jpg" group-title="安徽频道",芜湖生活
+https://live3.wuhunews.cn/channel2/playlist.m3u8?_upt=79326ab91725344798
+#EXTINF:-1 tvg-name="芜湖公共" tvg-logo="http://tv.haoqu99.com/d/file/2017/0913/small6cc48f42abf2cbe3a1006896171f06531505265375.jpg" group-title="安徽频道",芜湖公共
+https://live3.wuhunews.cn/channel3/playlist.m3u8?_upt=98a9b36f1725344821
+#EXTINF:-1 tvg-name="岳西综合" tvg-logo="http://tv.haoqu99.com/d/file/2016/0301/20160301101914522.jpg" group-title="安徽频道",岳西综合
+http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
