@@ -183,9 +183,9 @@ http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000007
 http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000011
 #EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://live.fanmingming.com/tv/安徽公共.png" group-title="安徽频道",安徽公共
 http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000009
-#EXTINF:-1 tvg-name="亳州农村" tvg-logo="https://raw.githubusercontent.com/Gan2Win/IPTV/TV-Logo/%E4%BA%B3%E5%B7%9E.png" group-title="安徽频道",亳州农村
+#EXTINF:-1 tvg-name="亳州农村" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Gan2Win/IPTV/TV-Logo/%E4%BA%B3%E5%B7%9E.png" group-title="安徽频道",亳州农村
 http://10.255.126.3:8006/AHBKLIVE/11111120210408000000000000000033
-#EXTINF:-1 tvg-name="亳州综合" tvg-logo="https://raw.githubusercontent.com/Gan2Win/IPTV/TV-Logo/%E4%BA%B3%E5%B7%9E.png" group-title="安徽频道",亳州综合
+#EXTINF:-1 tvg-name="亳州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Gan2Win/IPTV/TV-Logo/%E4%BA%B3%E5%B7%9E.png" group-title="安徽频道",亳州综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000075
 #EXTINF:-1 tvg-name="蚌埠新闻" tvg-logo="https://raw.githubusercontent.com/Gan2Win/IPTV/7fa4ea4df215f78d4d204d8f12e006e6cd811063/%E8%9A%8C%E5%9F%A0.png" group-title="安徽频道",蚌埠新闻
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000077
