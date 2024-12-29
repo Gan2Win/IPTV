@@ -202,7 +202,7 @@ http://192.168.3.211:4022/rtp/238.1.79.42:4448
 http://192.168.3.211:4022/rtp/238.1.79.41:4440
 #EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://live.fanmingming.com/tv/安徽公共.png" group-title="安徽频道",安徽公共
 http://192.168.3.211:4022/rtp/238.1.79.43:4456
-#EXTINF:-1 tvg-name="合肥新闻" tvg-logo="https://live.fanmingming.com/tv/合肥新闻.png" group-title="安徽频道",合肥新闻
+#EXTINF:-1 tvg-name="合肥新闻" tvg-logo="https://github.moeyy.xyz/https://github.com/Gan2Win/IPTV/blob/TV-Logo/%E5%90%88%E8%82%A5.png" group-title="安徽频道",合肥新闻
 http://192.168.3.211:4022/rtp/238.1.78.111:6760
 #EXTINF:-1 tvg-name="亳州农村" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Gan2Win/IPTV/TV-Logo/%E4%BA%B3%E5%B7%9E.png" group-title="安徽频道",亳州农村
 http://192.168.3.211:4022/rtp/238.1.78.129:6904
