@@ -35,8 +35,6 @@ http://192.168.3.211:4022/rtp/238.1.78.222:7648
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://192.168.3.211:4022/rtp/238.1.78.178:7296
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN-英语
-http://192.168.3.211:4022/rtp/238.1.78.50:6272
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
 http://192.168.3.211:4022/rtp/238.1.78.137:6968
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道",CHC-动作电影
@@ -69,6 +67,8 @@ http://192.168.3.211:4022/rtp/238.1.79.55:4576
 http://192.168.3.211:4022/rtp/238.1.79.58:4600
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视频道",CCTV-央视台球
 http://192.168.3.211:4022/rtp/238.1.79.59:4608
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN-英语
+http://192.168.3.211:4022/rtp/238.1.78.50:6272
 
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场
 http://192.168.3.211:4022/rtp/238.1.79.67:4672
@@ -94,7 +94,7 @@ http://192.168.3.211:4022/rtp/238.1.79.31:4360
 http://192.168.3.211:4022/rtp/238.1.78.155:7112
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="数字频道",财富天下
 http://192.168.3.211:4022/rtp/238.1.78.25:6128
-#EXTINF:-1 tvg-name="东方财经浦东" tvg-logo="https://live.fanmingming.com/tv/东方财经浦东.png" group-title="数字频道",东方财经浦东
+#EXTINF:-1 tvg-name="东方财经浦东" tvg-logo="https://github.moeyy.xyz/https://github.com/Gan2Win/IPTV/blob/TV-Logo/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F%E6%B5%A6%E4%B8%9C.png" group-title="数字频道",东方财经浦东
 http://192.168.3.211:4022/rtp/238.1.78.73:6456
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="数字频道",金色学堂
 http://192.168.3.211:4022/rtp/238.1.78.76:6480
@@ -102,7 +102,7 @@ http://192.168.3.211:4022/rtp/238.1.78.76:6480
 http://192.168.3.211:4022/rtp/238.1.78.81:6520
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="数字频道",法治天地
 http://192.168.3.211:4022/rtp/238.1.78.84:6544
-#EXTINF:-1 tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/梨园.png" group-title="数字频道",梨园
+#EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字频道",河南梨园
 http://192.168.3.211:4022/rtp/238.1.79.10:4192
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="数字频道",文物宝库
 http://192.168.3.211:4022/rtp/238.1.79.16:4240
