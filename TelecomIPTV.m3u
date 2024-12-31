@@ -311,7 +311,7 @@ http://192.168.3.211:4022/rtp/238.1.78.153:7096
 http://192.168.3.211:4022/rtp/238.1.78.154:7104
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://192.168.3.211:4022/rtp/238.1.79.9:4184
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="数字频道",茶频道
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="数字频道",茶友频道
 http://192.168.3.211:4022/rtp/238.1.79.30:4352
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://192.168.3.211:4022/rtp/238.1.79.31:4360
