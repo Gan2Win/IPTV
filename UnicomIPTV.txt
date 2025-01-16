@@ -39,6 +39,13 @@ CGTN,http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000148
 CGTN,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000148
 
 卫视频道,#genre#
+凤凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+星空卫视,https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.m3u8
+星空卫视,https://stream1.freetv.fun/a9c09c04bf7f0ccc71744697c26feb67743da281eaee48022c606b179d97fb81.m3u8
+星空卫视,https://stream1.freetv.fun/d669fabd35daeaf67952480c48acf16e6eef6fa2a12919e2ca169894e33a93d7.ctv
+星空卫视,https://stream1.freetv.fun/4d6218212c494c9898b8a15b7fc8a3dae025bf257c6ef7ea518e4ac0719da009.ctv
 安徽卫视,http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000039
 安徽卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000039
 北京卫视,http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000194
