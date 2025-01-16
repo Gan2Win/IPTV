@@ -193,6 +193,11 @@ CHC影迷电影,https://stream1.freetv.fun/2a139391dea1353d84c78bb29512d3a91ed79
 CHC影迷电影,https://stream1.freetv.fun/dea8296a1a6cc0043a1ea3d696f685c6a2d2844028582f6dd8fbd961286c451f.m3u8
 CHC影迷电影,https://stream1.freetv.fun/e19f53c2ac2bb7cbd8a9efd6fab6690900c57cd2c8b45b9c910538be57f714d1.m3u8
 CHC影迷电影,https://stream1.freetv.fun/18a92f00b53c84609065ae87bdf7cfc6569c13edc3b44e48e8f84ba3c7460b36.m3u8
+美亚电影,https://stream1.freetv.fun/39310d2096c2810366928803aa72e5693f032d63f1247844ca4b3db4e8fbecd3.ctv
+美亚電影,https://stream1.freetv.fun/4c4b713ebb18e14edeed3d376661842c8ebc8eb37595d82e2a0cdb03c05566f3.m3u8
+美亚电影,https://stream1.freetv.fun/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.ctv
+美亚电影,https://stream1.freetv.fun/1f65979c3b9190ec8f0120b85e6a65c8327f1378d612bb9e195c87f79cfa1652.m3u8
+美亚电影,https://stream1.freetv.fun/364ab897bc6f681e9a63a87348e5234e25e3582b43777c2f449bd4081b94f578.ctv
 CCTV-兵器科技,http://10.16.198.7:8112/AHBKLIVE/11111120210421000000000000000053
 CCTV-兵器科技,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000053
 CCTV-第一剧场,http://10.16.198.7:8112/AHBKLIVE/11111120210421000000000000000039
