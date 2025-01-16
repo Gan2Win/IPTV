@@ -184,7 +184,6 @@ CHC动作电影,https://stream1.freetv.fun/15258d3d4e90d77fee94d248c85f1f13dc842
 CHC动作电影,https://stream1.freetv.fun/b089bffcdfac366b128c64463498d1fd60b1083076a5b86de1c4eea50a117bef.m3u8
 CHC动作电影,https://stream1.freetv.fun/c9cda9e18bd11c70691ee6b5a11b60696f68071aaa24daa2f3e95d94e6f6466b.ctv
 CHC动作电影,https://stream1.freetv.fun/2c01182e0e359af60676e5bc1d3dbc0eb14b24a16b95c34a0c8343bc6b2751e5.m3u8
-CHC高清电影,https://stream1.freetv.fun/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
 CHC家庭影院,https://stream1.freetv.fun/a7da6445c1e09b6c04a04e62f117d67ddf77fb51603d25e04b7e21b53445aef9.m3u8
 CHC家庭影院,https://stream1.freetv.fun/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.ctv
 CHC家庭影院,https://stream1.freetv.fun/183c4742ee6f00b5553a0796a85f2cd8923f2792809b3028d386bc9f46a62878.ctv
