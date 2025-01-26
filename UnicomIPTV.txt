@@ -44,6 +44,9 @@ CGTN,http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000148
 卫视频道,#genre#
 安徽卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000039
 安徽卫视,http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000039
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 北京卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000194
 北京卫视,http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000194
 东方卫视,http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000263
@@ -181,6 +184,7 @@ CGTN,http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000148
 CHC家庭影院,http://61.138.167.36:9901/tsfile/live/1016_1.m3u8
 CHC动作电影,http://61.138.167.36:9901/tsfile/live/1014_1.m3u8
 CHC影迷电影,http://61.138.167.36:9901/tsfile/live/1015_1.m3u8
+美亚电影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 CCTV-央视文化精品,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000057
 CCTV-央视文化精品,http://10.16.198.7:8112/AHBKLIVE/11111120210421000000000000000057
 CCTV-央视台球,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000047
@@ -223,27 +227,6 @@ CETV-2,http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000251
 CETV-2,http://10.16.198.7:8112/AHBKLIVE/00005000000000000000000000000251
 CETV-4,http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000252
 CETV-4,http://10.16.198.7:8112/AHBKLIVE/00005000000000000000000000000252
-
-港澳频道,#genre#
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-娱乐新闻,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-亚洲新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-无线新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-纬来体育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-千禧经典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-美亚电影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-龙华日韩,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-黄金翡翠,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 
 历年春晚,#genre#
 1983年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
