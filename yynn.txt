@@ -1,6 +1,6 @@
 央视频道,#genre#
-CCTV-1 综合,https://stream1.freetv.fun/cctv1-14.m3u8
 CCTV-1 综合,https://stream1.freetv.fun/cctv1-65.ctv
+CCTV-1 综合,https://stream1.freetv.fun/cctv1-14.m3u8
 CCTV-2 财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-2 财经,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8
 CCTV-3 综艺,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
@@ -45,8 +45,6 @@ CGTN阿拉伯语,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CGTN_A/G_CGTN_A.m3
 
 
 卫视频道,#genre#
-安徽卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-安徽卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_ANHUI-HQ/G_ANHUI-HQ.m3u8
 安徽卫视,https://stream1.freetv.fun/5d54e8e684e8f867467ce6d05367ffc870a30e2b773c0b392dfaf7015a341685.m3u8
 安徽卫视,https://stream1.freetv.fun/628f836552ae45288a839fd956c4e358ed2a16c7082ee854f37c299abfba9803.m3u8
 安徽卫视,https://stream1.freetv.fun/aa9b31c1dbeffb511830532e0b8f1413b48dd2c61e59e843d19ba9fc3a073241.m3u8
