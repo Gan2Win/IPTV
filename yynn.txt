@@ -1,4 +1,5 @@
 央视频道,#genre#
+CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a
 CCTV-1,http://live.wqwqwq.sbs/itv/1000000005000265001.m3u8?cdn=ystenlive
 CCTV-1,http://live.wqwqwq.sbs/itv/5000000004000002226.m3u8?cdn=bestzb
 CCTV-1,https://stream1.freetv.fun/cctv1-14.m3u8
