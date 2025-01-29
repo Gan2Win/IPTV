@@ -18,9 +18,6 @@ CCTV-15 音乐,https://www.freetv.top/migu/673168223.m3u8?migutoken=f24124cb55ee
 CCTV-17 农业农村,https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac004018cec6a4046c41dd9f4fc2bf0d97a30aaddef8a88da0e984cf03e60fa6a6adcb81d784905e343fb6a9dae398827b1b71b5164b118d15f6762b07225d4764bce858c33
 
 卫视频道,#genre#
-安徽卫视,http://live.wqwqwq.sbs/itv/1000000005000265025.m3u8?cdn=ystenlive
-安徽卫视,http://live.wqwqwq.sbs/itv/1000000001000030159.m3u8?cdn=ystenlive
-安徽卫视,http://live.wqwqwq.sbs/itv/6000000001000009954.m3u8?cdn=wasusyt
 安徽卫视,https://stream1.freetv.fun/628f836552ae45288a839fd956c4e358ed2a16c7082ee854f37c299abfba9803.m3u8
 安徽卫视,https://stream1.freetv.fun/aa9b31c1dbeffb511830532e0b8f1413b48dd2c61e59e843d19ba9fc3a073241.m3u8
 安徽卫视,https://stream1.freetv.fun/d38e3c96e3f7a4647a198d81e65de88d1c774ec483827b5a44e96855075f4856.m3u8
