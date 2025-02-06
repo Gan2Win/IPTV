@@ -13,7 +13,13 @@ CCTV-11 戏曲,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&
 CCTV-12 社会与法,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 CCTV-13 新闻,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 CCTV-14 少儿,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
+CCTV-15 音乐,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 CCTV-16 奥林匹克,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV16HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
+
+CCTV-4 中文国际,http://42.238.235.104:9901/tsfile/live/1004_1.m3u8
+CCTV-7 国防军事,http://42.238.235.104:9901/tsfile/live/1006_1.m3u8
+CCTV-8 电视剧,http://42.238.235.104:9901/tsfile/live/1007_1.m3u8
+
 
 CCTV-1 综合,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a
 CCTV-2 财经,https://www.freetv.top/migu/631780532.m3u8?migutoken=6c76ed4394c8c43f88aac34dab811cbf99f0534dd0deb2fa6a2515925b7e3485de13876836fa6823e42f5c7304cfe44911416d7ad0312b8fbf012adfe4f735fd37abdd31a3b3e6f645512cd090
@@ -103,6 +109,20 @@ CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 浙江卫视,http://jxcbn.ws-cdn.gitv.tv/hls/ZHEJHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 重庆卫视,http://jxcbn.ws-cdn.gitv.tv/hls/CHONGQHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 
+安徽卫视,http://42.238.235.104:9901/tsfile/live/0130_1.m3u8
+北京卫视,http://42.238.235.104:9901/tsfile/live/0107_1.m3u8
+广东卫视,http://42.238.235.104:9901/tsfile/live/0125_1.m3u8
+广西卫视,http://42.238.235.104:9901/tsfile/live/0113_1.m3u8
+贵州卫视,http://42.238.235.104:9901/tsfile/live/0120_1.m3u8
+河南卫视,http://42.238.235.104:9901/tsfile/live/0139_1.m3u8
+黑龙江卫视,http://42.238.235.104:9901/tsfile/live/0143_1.m3u8
+湖南卫视,http://42.238.235.104:9901/tsfile/live/0128_1.m3u8
+辽宁卫视,http://42.238.235.104:9901/tsfile/live/0121_1.m3u8
+山东卫视,http://42.238.235.104:9901/tsfile/live/0131_1.m3u8
+山西卫视,http://42.238.235.104:9901/tsfile/live/0118_1.m3u8
+四川卫视,http://42.238.235.104:9901/tsfile/live/0123_1.m3u8
+重庆卫视,http://42.238.235.104:9901/tsfile/live/0142_1.m3u8
+
 安徽卫视,http://tvpull.careryun.com/tv/ahws.m3u8
 安徽卫视,https://stream1.freetv.fun/628f836552ae45288a839fd956c4e358ed2a16c7082ee854f37c299abfba9803.m3u8
 安徽卫视,https://stream1.freetv.fun/aa9b31c1dbeffb511830532e0b8f1413b48dd2c61e59e843d19ba9fc3a073241.m3u8
@@ -149,3 +169,8 @@ CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 金鹰卡通,http://jxcbn.ws-cdn.gitv.tv/hls/JYKTHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 CETV-1,http://jxcbn.ws-cdn.gitv.tv/hls/CETV1HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 CETV-4,http://jxcbn.ws-cdn.gitv.tv/hls/CETV4/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
+哈哈炫动,http://jxcbn.ws-cdn.gitv.tv/hls/XDKT/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
+河南都市,http://42.238.235.104:9901/tsfile/live/1001_1.m3u8
+河南民生,http://42.238.235.104:9901/tsfile/live/1002_1.m3u8
+金鹰卡通,http://42.238.235.104:9901/tsfile/live/0136_1.m3u8
+魅力音乐,http://42.238.235.104:9901/tsfile/live/1000_1.m3u8
