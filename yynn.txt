@@ -1,113 +1,74 @@
 央视频道,#genre#
-CCTV-1 综合,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-2 财经,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV2HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-3 综艺,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-4 中文国际,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV4HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-5+ 体育赛事,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5+HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-5 体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-6 电影,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV6_HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-8 电视剧,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV8_HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-9 纪录,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV9HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-10 科教,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-11 戏曲,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-12 社会与法,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-13 新闻,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-14 少儿,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-15 音乐,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV-16 奥林匹克,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV16HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
+CCTV-1 综合,http://183.215.211.219:9998/tsfile/live/1060_1.m3u8
+CCTV-2 财经,http://183.215.211.219:9998/tsfile/live/1011_1.m3u8
+CCTV-3 综艺,http://183.215.211.219:9998/tsfile/live/1029_1.m3u8
+CCTV-4 中文国际,http://183.215.211.219:9998/tsfile/live/0004_1.m3u8
+CCTV-5 体育,http://183.215.211.219:9998/tsfile/live/1001_1.m3u8
+CCTV-5+ 体育赛事,http://183.215.211.219:9998/tsfile/live/0016_1.m3u8
+CCTV-6 电影,http://183.215.211.219:9998/tsfile/live/0006_1.m3u8
+CCTV-7 国防军事,http://183.215.211.219:9998/tsfile/live/faacts/0007_1.m3u8
+CCTV-8 电视剧,http://183.215.211.219:9998/tsfile/live/0008_1.m3u8
+CCTV-9 纪录,http://183.215.211.219:9998/tsfile/live/0009_1.m3u8
+CCTV-10 科教,http://183.215.211.219:9998/tsfile/live/0010_1.m3u8
+CCTV-11 戏曲,http://183.215.211.219:9998/tsfile/live/0011_1.m3u8
+CCTV-12 社会与法,http://183.215.211.219:9998/tsfile/live/0012_1.m3u8
+CCTV-13 新闻,http://183.215.211.219:9998/tsfile/live/0013_1.m3u8
+CCTV-14 少儿,http://183.215.211.219:9998/tsfile/live/0014_1.m3u8
+CCTV-15 音乐,http://183.215.211.219:9998/tsfile/live/0015_1.m3u8
+CCTV-16 奥林匹克,http://183.215.211.219:9998/tsfile/live/1052_1.m3u8
+CCTV-17 农业农村,http://183.215.211.219:9998/tsfile/live/0019_1.m3u8
 
 CCTV-4 中文国际,http://42.238.235.104:9901/tsfile/live/1004_1.m3u8
 CCTV-7 国防军事,http://42.238.235.104:9901/tsfile/live/1006_1.m3u8
 CCTV-8 电视剧,http://42.238.235.104:9901/tsfile/live/1007_1.m3u8
 
-
-CCTV-1 综合,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a
-CCTV-2 财经,https://www.freetv.top/migu/631780532.m3u8?migutoken=6c76ed4394c8c43f88aac34dab811cbf99f0534dd0deb2fa6a2515925b7e3485de13876836fa6823e42f5c7304cfe44911416d7ad0312b8fbf012adfe4f735fd37abdd31a3b3e6f645512cd090
-CCTV-3 综艺,https://www.freetv.top/migu/624878271.m3u8?migutoken=6051cf0f824b7432a7e38cb90b50dbc8d5f9dbc684d357663ae821fb87ae233a45772b235431568e910e14c17b7496429d23d2b4b3501692941d1e6d364b2e35ccf5890eb0c31743c5dffaa2ef
-CCTV-4 中文国际,https://www.freetv.top/migu/631780421.m3u8?migutoken=9c479e166888f001e1fb4ab5502e734251c68075cd89836a715137a1a2a4b18b60e282b0f1a308d6641c282600bd8db3cef99cb15edd0ab61d81c4d76d154bb464e3a02a75b167298c4747ce6f
-CCTV-5 体育,https://www.freetv.top/migu/641886683.m3u8?migutoken=2394bc3ac567cd8270631b1f612f28f996719523d72453a2d116e0f33d6e35016d1954f50d7ae0eae4743d3557d85b85dc048a8c45ac3d96c528fce533ceeb7febaa06283ebe688a04fa57379a
-CCTV-5+ 体育赛事,https://www.freetv.top/migu/641886773.m3u8?migutoken=4f1a9fcd002d1813b494eddd61778e103dbe130f4abb409e9032be9917dfd1871014d622a729fd6ffc4e1c376330de3f42c3691e2b49d12f7eb77bdf1887e67a9e6ad438d269a4408f0b3c6bcb
-CCTV-6 电影,https://www.freetv.top/migu/624878396.m3u8?migutoken=6b67cbdfb1839f227832346707fcbe0f8de95d5df4faa3a63d5243e5f4ca0f52e79f041476a989915ac41a009e4c8f405f58040a4d4ec74bde4c945654300a3c41c00f4d67ef3708cb107ba9e9
-CCTV-7 国防军事,https://www.freetv.top/migu/673168121.m3u8?migutoken=3253222269368c440aa1d23dba86c186a7b73abdea3890faf72e3d720844f8f1d3adc2b18ed047dbb3eff1a6c5d9379fad37d1f8a380d0e7c69e9ad6eb41709cf92077125fc0bded4cfd47808b
-CCTV-8 电视剧,https://www.freetv.top/migu/624878356.m3u8?migutoken=fd27f61c7f7fe2cf7f724a0bb82a08a3e2d5c36e0ed91d4004eb9038918cf4e51f974f3288e5832b1e8b7907de8d1a37f400d9f454f47bb3fd4735c99fd4a541c6eea353c7d6d03cf5ec5b7533
-CCTV-9 纪录,https://www.freetv.top/migu/673168140.m3u8?migutoken=21079ccc296663c0852d7aa559706185d47321c401459ef6e4d341547dda558accb1b561b9935ba84cc9506d0ad03b0489b131d25c50278952093cf2b5b7913fb43c8c0effa57085fdad555379
-CCTV-10 科教,https://www.freetv.top/migu/624878405.m3u8?migutoken=b1b22121df2bcd800e793b36913fab68d316021b76f648524809136fb73c1f61bca55e7a5b0562383be65dfcb00d638501b42d41f4e66fc266c568cf7a9986d9178f59c8f802bee2700c475a63
-CCTV-11 戏曲,https://www.freetv.top/migu/667987558.m3u8?migutoken=dbfc420c420e30228efe23e562fc0ee670a65ddac45cc355845b855f27a4e5ba04a7e18d73eb58be7427a4bed6ef9056659fbcf58979a56ccbe84899cfdf0644fc1215333ca6210639196795f2
-CCTV-12 社会与法,https://www.freetv.top/migu/673168185.m3u8?migutoken=876a940958defb8a6514e54b9a992f0208f7db15754439ec4131d690bb68982f44bdfa6edbdbbdaf91035ca931a5577a8de3f1af81b18ee26104662899818f2703ab8bf49c63365ef4c1abb782
-CCTV-13 新闻,https://www.freetv.top/migu/608807423.m3u8?migutoken=b0ebf450385413f8d70e72a92ceba03e41170d59df1374472666311b9a1b26c2665ac29d287ef869f8998593325508eed5b09a4020d14bc557a3fe580eea0c0f4c2c13a4581ddb400575b8d3e9
-CCTV-14 少儿,https://www.freetv.top/migu/624878440.m3u8?migutoken=e6bd15e024af167f2ca00052d9bcd67ea8fb97ef7fc460b66c53fe1a4e5ef960f22ccc6ea16b995648364a330058a0f552e989000e7e98adfafc3a0259bb475e8c905ce600deedcd97464ca17f
-CCTV-15 音乐,https://www.freetv.top/migu/673168223.m3u8?migutoken=f24124cb55ee7b2392bae373bd81ba8f267bc2ab7ff065b93c9b9e9674236b624bab04f3f6a2e4d12149cfe81b19760c763b8fba1369d0d4092281bada4eff6ba6d823c0c43e451911f5b20872
-CCTV-17 农业农村,https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac004018cec6a4046c41dd9f4fc2bf0d97a30aaddef8a88da0e984cf03e60fa6a6adcb81d784905e343fb6a9dae398827b1b71b5164b118d15f6762b07225d4764bce858c33
-
-CCTV-1 综合,http://tvpull.careryun.com/tv/cctv1.m3u8
-CCTV-2 财经,http://tvpull.careryun.com/tv/cctv2.m3u8
-CCTV-3 综艺,http://tvpull.careryun.com/tv/cctv3.m3u8
-CCTV-4 中文国际,http://tvpull.careryun.com/tv/cctv4.m3u8
-CCTV-5 体育,http://tvpull.careryun.com/tv/cctv5.m3u8
-CCTV-5+ 体育赛事,http://tvpull.careryun.com/tv/cctv5+.m3u8
-CCTV-6 电影,http://tvpull.careryun.com/tv/cctv6.m3u8
-CCTV-7 国防军事,http://tvpull.careryun.com/tv/cctv7.m3u8
-CCTV-8 电视剧,http://tvpull.careryun.com/tv/cctv8.m3u8
-CCTV-9 纪录,http://tvpull.careryun.com/tv/cctv9.m3u8
-CCTV-10 科教,http://tvpull.careryun.com/tv/cctv10.m3u8
-CCTV-11 戏曲,http://tvpull.careryun.com/tv/cctv11.m3u8
-CCTV-12 社会与法,http://tvpull.careryun.com/tv/cctv12.m3u8
-CCTV-13 新闻,http://tvpull.careryun.com/tv/cctv13.m3u8
-CCTV-14 少儿,http://tvpull.careryun.com/tv/cctv14.m3u8
-CCTV-15 音乐,http://tvpull.careryun.com/tv/cctv15.m3u8
-CCTV-17 农业农村,http://tvpull.careryun.com/tv/cctv17.m3u8
-CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7 国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
+CCTV-1 综合,http://116.167.104.94:9901/tsfile/live/0001_1.m3u8
+CCTV-2 财经,http://116.167.104.94:9901/tsfile/live/0002_1.m3u8
+CCTV-4 中文国际,http://116.167.104.94:9901/tsfile/live/0004_1.m3u8
+CCTV-5 体育,http://116.167.104.94:9901/tsfile/live/0005_1.m3u8
+CCTV-6 电影,http://116.167.104.94:9901/tsfile/live/0006_1.m3u8
+CCTV-7 国防军事,http://116.167.104.94:9901/tsfile/live/0007_1.m3u8
+CCTV-9 纪录,http://116.167.104.94:9901/tsfile/live/1008_1.m3u8
+CCTV-10 科教,http://116.167.104.94:9901/tsfile/live/1009_1.m3u8
+CCTV-11 戏曲,http://116.167.104.94:9901/tsfile/live/1010_1.m3u8
+CCTV-12 社会与法,http://116.167.104.94:9901/tsfile/live/1011_1.m3u8
+CCTV-13 新闻,http://116.167.104.94:9901/tsfile/live/1012_1.m3u8
+CCTV-14 少儿,http://116.167.104.94:9901/tsfile/live/1013_1.m3u8
+CCTV-15 音乐,http://116.167.104.94:9901/tsfile/live/1014_1.m3u8
 
 卫视频道,#genre#
-安徽卫视,http://jxcbn.ws-cdn.gitv.tv/hls/ANHUIHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-北京卫视,http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-兵团卫视,http://jxcbn.ws-cdn.gitv.tv/hls/BTWS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-东方卫视,http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-东南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/DONGNHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-甘肃卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GSWS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-广东卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUANGDHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-广西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-贵州卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUIZHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-海南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-河北卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HAIBHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-河南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HENHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-黑龙江卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HEILJHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-湖北卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HUBEIHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-湖南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HUNANHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-吉林卫视,http://jxcbn.ws-cdn.gitv.tv/hls/JILHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-江苏卫视,http://jxcbn.ws-cdn.gitv.tv/hls/JIANGSHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-江西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/JXWSHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-辽宁卫视,http://jxcbn.ws-cdn.gitv.tv/hls/LIAONHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-内蒙古卫视,http://jxcbn.ws-cdn.gitv.tv/hls/NMGWS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-宁夏卫视,http://jxcbn.ws-cdn.gitv.tv/hls/NXWS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-青海卫视,http://jxcbn.ws-cdn.gitv.tv/hls/QHWS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-山东卫视,http://jxcbn.ws-cdn.gitv.tv/hls/SHANDHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-山西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/SXWS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-陕西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/SXTV/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-深圳卫视,http://jxcbn.ws-cdn.gitv.tv/hls/SHENZHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-四川卫视,http://jxcbn.ws-cdn.gitv.tv/hls/SICHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-天津卫视,http://jxcbn.ws-cdn.gitv.tv/hls/TIANJHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-西藏卫视,http://jxcbn.ws-cdn.gitv.tv/hls/XZWS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-新疆卫视,http://jxcbn.ws-cdn.gitv.tv/hls/XJWS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-云南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/YUNNHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-浙江卫视,http://jxcbn.ws-cdn.gitv.tv/hls/ZHEJHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-重庆卫视,http://jxcbn.ws-cdn.gitv.tv/hls/CHONGQHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
+安徽卫视,http://183.215.211.219:9998/tsfile/live/0130_1.m3u8
+北京卫视,http://183.215.211.219:9998/tsfile/live/0122_1.m3u8
+重庆卫视,http://183.215.211.219:9998/tsfile/live/0142_1.m3u8
+三沙卫视,http://183.215.211.219:9998/tsfile/live/1000_1.m3u8
+东南卫视,http://183.215.211.219:9998/tsfile/live/0137_1.m3u8
+广东卫视,http://183.215.211.219:9998/tsfile/live/0125_1.m3u8
+广西卫视,http://183.215.211.219:9998/tsfile/live/1058_1.m3u8
+贵州卫视,http://183.215.211.219:9998/tsfile/live/0120_1.m3u8
+河北卫视,http://183.215.211.219:9998/tsfile/live/0117_1.m3u8
+河南卫视,http://183.215.211.219:9998/tsfile/live/0139_1.m3u8
+黑龙江卫视,http://183.215.211.219:9998/tsfile/live/0143_1.m3u8
+湖北卫视,http://183.215.211.219:9998/tsfile/live/0118_1.m3u8
+湖南卫视,http://183.215.211.219:9998/tsfile/live/1075_1.m3u8
+江苏卫视,http://183.215.211.219:9998/tsfile/live/0127_1.m3u8
+江西卫视,http://183.215.211.219:9998/tsfile/live/0138_1.m3u8
+辽宁卫视,http://183.215.211.219:9998/tsfile/live/0121_1.m3u8
+旅游卫视,http://183.215.211.219:9998/tsfile/live/0115_1.m3u8
+青海卫视,http://183.215.211.219:9998/tsfile/live/1086_1.m3u8
+山东卫视,http://183.215.211.219:9998/tsfile/live/0131_1.m3u8
+陕西卫视,http://183.215.211.219:9998/tsfile/live/1038_1.m3u8
+上海卫视,http://183.215.211.219:9998/tsfile/live/0107_1.m3u8
+深圳卫视,http://183.215.211.219:9998/tsfile/live/0126_1.m3u8
+四川卫视,http://183.215.211.219:9998/tsfile/live/0123_1.m3u8
+天津卫视,http://183.215.211.219:9998/tsfile/live/0135_1.m3u8
+云南卫视,http://183.215.211.219:9998/tsfile/live/1037_1.m3u8
+浙江卫视,http://183.215.211.219:9998/tsfile/live/0124_1.m3u8
+
+安徽卫视,https://stream1.freetv.fun/628f836552ae45288a839fd956c4e358ed2a16c7082ee854f37c299abfba9803.m3u8
+安徽卫视,https://stream1.freetv.fun/aa9b31c1dbeffb511830532e0b8f1413b48dd2c61e59e843d19ba9fc3a073241.m3u8
+安徽卫视,https://stream1.freetv.fun/d38e3c96e3f7a4647a198d81e65de88d1c774ec483827b5a44e96855075f4856.m3u8
+安徽卫视,https://stream1.freetv.fun/e25c944df2aaf987bf889108895b9e4364a3b6efdadc21b0a28e941bc2b1401d.m3u8
+安徽卫视,https://stream1.freetv.fun/f502060539fa0954b434a65635ec4ffa63e422ac4bf78ba075072309672a4eac.m3u8
 
 安徽卫视,http://42.238.235.104:9901/tsfile/live/0130_1.m3u8
 北京卫视,http://42.238.235.104:9901/tsfile/live/0107_1.m3u8
@@ -123,54 +84,78 @@ CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 四川卫视,http://42.238.235.104:9901/tsfile/live/0123_1.m3u8
 重庆卫视,http://42.238.235.104:9901/tsfile/live/0142_1.m3u8
 
-安徽卫视,http://tvpull.careryun.com/tv/ahws.m3u8
-安徽卫视,https://stream1.freetv.fun/628f836552ae45288a839fd956c4e358ed2a16c7082ee854f37c299abfba9803.m3u8
-安徽卫视,https://stream1.freetv.fun/aa9b31c1dbeffb511830532e0b8f1413b48dd2c61e59e843d19ba9fc3a073241.m3u8
-安徽卫视,https://stream1.freetv.fun/d38e3c96e3f7a4647a198d81e65de88d1c774ec483827b5a44e96855075f4856.m3u8
-安徽卫视,https://stream1.freetv.fun/e25c944df2aaf987bf889108895b9e4364a3b6efdadc21b0a28e941bc2b1401d.m3u8
-安徽卫视,https://stream1.freetv.fun/f502060539fa0954b434a65635ec4ffa63e422ac4bf78ba075072309672a4eac.m3u8
-湖南卫视,http://tvpull.careryun.com/tv/cn_hunws.m3u8
-浙江卫视,http://tvpull.careryun.com/tv/cn_zjws.m3u8
-江苏卫视,http://tvpull.careryun.com/tv/jsws.m3u8
-北京卫视,http://tvpull.careryun.com/tv/cn_bjws.m3u8
-深圳卫视,http://tvpull.careryun.com/tv/cn_szws.m3u8
-黑龙江卫视,http://tvpull.careryun.com/tv/cn_hljws.m3u8
-广东卫视,http://tvpull.careryun.com/tv/gdws.m3u8
-湖北卫视,http://tvpull.careryun.com/tv/hbws.m3u8
-海南卫视,http://tvpull.careryun.com/tv/hainws.m3u8
-河南卫视,http://tvpull.careryun.com/tv/cn_hnws.m3u8
-甘肃卫视,http://tvpull.careryun.com/tv/cn_gsws.m3u8
-东方卫视,http://tvpull.careryun.com/tv/dfws.m3u8
-河北卫视,http://tvpull.careryun.com/tv/cn_hbws.m3u8
-四川卫视,http://tvpull.careryun.com/tv/cn_ahws.m3u8
-广西卫视,http://tvpull.careryun.com/tv/cn_gxws.m3u8
-吉林卫视,http://tvpull.careryun.com/tv/jlws.m3u8
-陕西电视台,http://tvpull.careryun.com/tv/sxws.m3u8
-天津卫视,http://tvpull.careryun.com/tv/cn_tjws.m3u8
-新疆卫视,http://tvpull.careryun.com/tv/cn_xjws.m3u8
-山东卫视,http://tvpull.careryun.com/tv/cn_sdws.m3u8
-江西卫视,http://tvpull.careryun.com/tv/jxws.m3u8
-东南卫视,http://tvpull.careryun.com/tv/cn_dnws.m3u8
-辽宁卫视,http://tvpull.careryun.com/tv/cn_lnws.m3u8
-重庆卫视,http://tvpull.careryun.com/tv/cn_cqws.m3u8
-贵州卫视,http://tvpull.careryun.com/tv/cn_gzws.m3u8
-青海卫视,http://tvpull.careryun.com/tv/qhws.m3u8
+安徽卫视,http://116.167.104.94:9901/tsfile/live/0130_1.m3u8
+北京卫视,http://116.167.104.94:9901/tsfile/live/0122_1.m3u8
+东南卫视,http://116.167.104.94:9901/tsfile/live/0137_1.m3u8
+广东卫视,http://116.167.104.94:9901/tsfile/live/0125_1.m3u8
+广西卫视,http://116.167.104.94:9901/tsfile/live/0113_1.m3u8
+贵州卫视,http://116.167.104.94:9901/tsfile/live/0120_1.m3u8
+河北卫视,http://116.167.104.94:9901/tsfile/live/0117_1.m3u8
+河南卫视,http://116.167.104.94:9901/tsfile/live/0139_1.m3u8
+黑龙江卫视,http://116.167.104.94:9901/tsfile/live/0143_1.m3u8
+湖北卫视,http://116.167.104.94:9901/tsfile/live/0132_1.m3u8
+湖南卫视,http://116.167.104.94:9901/tsfile/live/0128_1.m3u8
+吉林卫视,http://116.167.104.94:9901/tsfile/live/0116_1.m3u8
+江西卫视,http://116.167.104.94:9901/tsfile/live/0138_1.m3u8
+辽宁卫视,http://116.167.104.94:9901/tsfile/live/0121_1.m3u8
+旅游卫视,http://116.167.104.94:9901/tsfile/live/0114_1.m3u8
+内蒙古卫视,http://116.167.104.94:9901/tsfile/live/0109_1.m3u8
+宁夏卫视,http://116.167.104.94:9901/tsfile/live/0112_1.m3u8
+青海卫视,http://116.167.104.94:9901/tsfile/live/0140_1.m3u8
+山东卫视,http://116.167.104.94:9901/tsfile/live/0131_1.m3u8
+山西卫视,http://116.167.104.94:9901/tsfile/live/0118_1.m3u8
+陕西卫视,http://116.167.104.94:9901/tsfile/live/0136_1.m3u8
+上海卫视,http://116.167.104.94:9901/tsfile/live/0107_1.m3u8
+深圳卫视,http://116.167.104.94:9901/tsfile/live/0126_1.m3u8
+四川卫视,http://116.167.104.94:9901/tsfile/live/0123_1.m3u8
+天津卫视,http://116.167.104.94:9901/tsfile/live/0135_1.m3u8
+云南卫视,http://116.167.104.94:9901/tsfile/live/0119_1.m3u8
+浙江卫视,http://116.167.104.94:9901/tsfile/live/0124_1.m3u8
+重庆卫视,http://116.167.104.94:9901/tsfile/live/0142_1.m3u8
 
 数字频道,#genre#
-江西都市,http://jxcbn.ws-cdn.gitv.tv/hls/JXDS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-江西教育,http://jxcbn.ws-cdn.gitv.tv/hls/JXJY/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-江西少儿,http://jxcbn.ws-cdn.gitv.tv/hls/JXSEHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-江西新闻,http://jxcbn.ws-cdn.gitv.tv/hls/JXXWHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-江西经济生活,http://jxcbn.ws-cdn.gitv.tv/hls/JXJJSHHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-江西风尚购物,http://jxcbn.ws-cdn.gitv.tv/hls/FSGW/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-江西公共农业,http://jxcbn.ws-cdn.gitv.tv/hls/JXGGNY/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-江西影视旅游,http://jxcbn.ws-cdn.gitv.tv/hls/JXYS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-金鹰纪实,http://jxcbn.ws-cdn.gitv.tv/hls/JYJSHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-金鹰卡通,http://jxcbn.ws-cdn.gitv.tv/hls/JYKTHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CETV-1,http://jxcbn.ws-cdn.gitv.tv/hls/CETV1HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CETV-4,http://jxcbn.ws-cdn.gitv.tv/hls/CETV4/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-哈哈炫动,http://jxcbn.ws-cdn.gitv.tv/hls/XDKT/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
+海南公共,http://116.167.104.94:9901/tsfile/live/1018_1.m3u8
+海南新闻,http://116.167.104.94:9901/tsfile/live/1017_1.m3u8
+海南影视,http://116.167.104.94:9901/tsfile/live/1019_1.m3u8
+海南综合,http://116.167.104.94:9901/tsfile/live/1016_1.m3u8
+IPTV3,http://116.167.104.94:9901/tsfile/live/1002_1.m3u8
+IPTV8,http://116.167.104.94:9901/tsfile/live/1007_1.m3u8
+湖南爱晚,http://183.215.211.219:9998/tsfile/live/1015_1.m3u8
+湖南导视,http://183.215.211.219:9998/tsfile/live/1017_1.m3u8
+湖南电视剧,http://183.215.211.219:9998/tsfile/live/1024_1.m3u8
+湖南都市,http://183.215.211.219:9998/tsfile/live/1073_1.m3u8
+湖南国际,http://183.215.211.219:9998/tsfile/live/1003_1.m3u8
+湖南经视,http://183.215.211.219:9998/tsfile/live/1048_1.m3u8
+长沙新闻,http://183.215.211.219:9998/tsfile/live/1062_1.m3u8
+政法频道,http://183.215.211.219:9998/tsfile/live/1002_1.m3u8
+足球频道,http://183.215.211.219:9998/tsfile/live/1085_1.m3u8
+爱情喜剧,http://183.215.211.219:9998/tsfile/live/1078_1.m3u8
+财富天下,http://183.215.211.219:9998/tsfile/live/1054_1.m3u8
+地方戏曲,http://183.215.211.219:9998/tsfile/live/1056_1.m3u8
+动作电影,http://183.215.211.219:9998/tsfile/live/1070_1.m3u8
+高清院线,http://183.215.211.219:9998/tsfile/live/1065_1.m3u8
+古装剧场,http://183.215.211.219:9998/tsfile/live/1040_1.m3u8
+海外剧场,http://183.215.211.219:9998/tsfile/live/1076_1.m3u8
+黑莓电影,http://183.215.211.219:9998/tsfile/live/1077_1.m3u8
+湖南娱乐,http://183.215.211.219:9998/tsfile/live/1016_1.m3u8
+家庭剧场,http://183.215.211.219:9998/tsfile/live/1080_1.m3u8
+金鹰纪实,http://183.215.211.219:9998/tsfile/live/1061_1.m3u8
+金鹰卡通,http://183.215.211.219:9998/tsfile/live/1049_1.m3u8
+军旅剧场,http://183.215.211.219:9998/tsfile/live/1072_1.m3u8
+卡酷少儿,http://183.215.211.219:9998/tsfile/live/1059_1.m3u8
+卡酷少儿,http://183.215.211.219:9998/tsfile/live/1066_1.m3u8
+抗战剧场,http://183.215.211.219:9998/tsfile/live/1005_1.m3u8
+娄底都市,http://183.215.211.219:9998/tsfile/live/1008_1.m3u8
+娄底公共,http://183.215.211.219:9998/tsfile/live/1007_1.m3u8
+娄底综合,http://183.215.211.219:9998/tsfile/live/1006_1.m3u8
+人物频道,http://183.215.211.219:9998/tsfile/live/1045_1.m3u8
+书画频道,http://183.215.211.219:9998/tsfile/live/1044_1.m3u8
+湘西综合,http://183.215.211.219:9998/tsfile/live/1053_1.m3u8
+潇湘电影,http://183.215.211.219:9998/tsfile/live/1013_1.m3u8
+新化综合,http://183.215.211.219:9998/tsfile/live/1004_1.m3u8
+音像世界,http://183.215.211.219:9998/tsfile/live/1033_1.m3u8
 河南都市,http://42.238.235.104:9901/tsfile/live/1001_1.m3u8
 河南民生,http://42.238.235.104:9901/tsfile/live/1002_1.m3u8
 金鹰卡通,http://42.238.235.104:9901/tsfile/live/0136_1.m3u8
 魅力音乐,http://42.238.235.104:9901/tsfile/live/1000_1.m3u8
+CGTN,http://116.167.104.94:9901/tsfile/live/1015_1.m3u8
