@@ -178,9 +178,9 @@ CGTN,http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000148
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-动作电影,http://183.215.211.219:9998/tsfile/live/1003_1.m3u8
-家庭影院,http://183.215.211.219:9998/tsfile/live/1065_1.m3u8
-影迷电影,http://183.215.211.219:9998/tsfile/live/1002_1.m3u8
+CHC家庭影院,http://183.215.211.219:9998/tsfile/live/1065_1.m3u8
+CHC动作电影,http://183.215.211.219:9998/tsfile/live/1003_1.m3u8
+CHC影迷电影,http://183.215.211.219:9998/tsfile/live/1002_1.m3u8
 CCTV-央视文化精品,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000057
 CCTV-央视文化精品,http://10.16.198.7:8112/AHBKLIVE/11111120210421000000000000000057
 CCTV-央视台球,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000047
